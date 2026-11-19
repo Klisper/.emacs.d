@@ -1,0 +1,2 @@
+;;   -*- mode: lisp-data; -*-
+((:container ((elisp org-element--headline-cache) (elisp org-element--cache) (version "2.3")) :persist-file "7d/908792-e050-4b82-a944-0f9287d6d53a" :associated (:hash "65c1d87460c2be978a124a4bb77b7eb6" :file "c:/Users/klispi/Desktop/ho/test.org" :inode 22799473113627688) :expiry 30 :last-access 1790690667.466349 :last-access-hr "2026-09-29T19:34:27+0530") (:container ((index "3.2")) :persist-file "3d/8a1318-3310-4b07-9fd2-fe9d49adde22" :associated nil :expiry never :last-access 1790690247.521714 :last-access-hr "2026-09-29T19:27:27+0530"))

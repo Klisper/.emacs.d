@@ -1,0 +1,18 @@
+# Compiled files and backups
+*.elc
+*~
+\#*\#
+.\#*
+
+# Package managers (if you reinstall packages via init.el)
+elpa/
+straight/
+eln-cache/
+
+# Session and history files
+auto-save-list/
+transient/
+recentf
+places
+history
+bookmarks
